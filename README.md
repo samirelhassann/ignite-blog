@@ -18,7 +18,7 @@ This project was built with the help of the [Rocketseat](https://www.rocketseat.
 
 ## Demo
 
-![demo](https://user-images.githubusercontent.com/91634008/208159869-aae61ed8-202b-4841-9c5c-2f9b9d2c78f5.gif)
+![image](https://user-images.githubusercontent.com/91634008/208162271-43adbcc1-adf3-4656-a688-a75bb93d0d64.png)
 
 ## Instalation
 
